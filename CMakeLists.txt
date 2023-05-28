@@ -1,0 +1,1 @@
+add_executable(2023-06_1주차_1182_yerim 2023-06/1주차/1182_yerim.cpp)
