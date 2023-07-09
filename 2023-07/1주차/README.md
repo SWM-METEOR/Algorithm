@@ -3,5 +3,5 @@
 | 문제번호 | 문제 제목 
 | :--: | :--: |
 | 프로그래머스 | [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | 
-| 프로그래머스 | [선발 명단](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 
+| 프로그래머스 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 
 | 13460 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |
